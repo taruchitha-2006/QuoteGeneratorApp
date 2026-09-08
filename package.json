@@ -1,0 +1,19 @@
+{
+  "name": "quotegeneratorapp",
+  "version": "1.0.0",
+  "description": "Quote Generator with History",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "22.x"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "sqlite3": "^6.0.1"
+  }
+}
